@@ -1,6 +1,6 @@
 {
   "name": "selection-sort",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sorting algorithm with O(n^2) complexity. A process of rely on the smallest or largest element in sorted region.",
   "homepage": "https://github.com/nkpgardose",
   "author": {
